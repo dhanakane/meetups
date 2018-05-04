@@ -3,7 +3,8 @@
 
 ### Summary
 1. **"My Project"** (15 mins) Present a problem and the journey to solve it, demos are welcome
-2. **"Main Talk"** (30 mins) Tech or personal journey focused talk, demos are welcome
+2. **"My Talk"** (30 mins) Tech or personal journey focused talk, demos are welcome
+
 Deadline: submit two weeks before the event
 
 ### Details
