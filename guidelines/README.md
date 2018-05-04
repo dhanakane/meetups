@@ -65,4 +65,5 @@ We'll usually wine and dine you which is not a bad deal for an evening of your t
 With this in mind, please be mindful of the following:
 - Please be curious and ask questions!
 - Be considerate of the other attendees. You're at this event because you're a professional. If it's something that won't fly in your workplace, then chances are it won't here either.
+- Please at a minimum clean up after yourself. You can go the extra mile and help to clean up after others who didn't get the memo and help arrange the layout bach to original at the end of the event.
 That's it!
