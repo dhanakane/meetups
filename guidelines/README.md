@@ -1,11 +1,18 @@
 ## Presenters
 ### Proposals
+
+### Summary
+1. **"My Project"** (15 mins) Present a problem and the journey to solve it, demos are welcome
+2. **"Main Talk"** (30 mins) Tech or personal journey focused talk, demos are welcome
+
+### Details
+
 So maybe you've done something cool, have a story to tell, maybe you've got an interesting problem, or you've solved an interesting problem and would like to talk about it. That's great! We'd love to hear from you!
 Everyone is encouraged to submit a proposal regardless of experience. Talks in the past have ranged from introductory, to advanced. If you're reading this and are interested in speaking at the London Network Automation Meetup then we want you to submit a proposal!
 
 Before you start, there are some factual things you should know.
 - There are two types of presentation we take. A "My Project" talk which usually focuses on a problem you've solved including a demo, and a more traditional "Presentation" format.
-- Presnetations are usually 30 minutes long including time for questions. If for some reason yours is going to take longer then let us know and we'll see what we can do.
+- Presentations are usually 30 minutes long including time for questions. If for some reason yours is going to take longer then let us know and we'll see what we can do.
 - You can include a demo in a Presentation if you'd like.
 - "My Project" Demos are usually 15 minutes long. If you need more time then let us know beforeahand and we'll see what we can do.
 - We usually finalise the schedule of presentations 2 weeks before the meetup. So if you want to speak at the next meetup, then try and let us know 2 weeks in advance.
@@ -46,12 +53,12 @@ Also, opinionated folk tend to make for interesting discussions. However, rememb
 ## Sponsors
 Sponsors get to announce their company, publicity via the meetup group, and an announcement from the compere during it.
 We have a few sponsorship options.
-- Social sponsorship.
-  This can take the form of a meet and greet. We're happy to announce the meeting using the Meetup group. It's then up to you to figure out what you want from it.
-- Venue sponsorship.
+- **Social sponsorship**
+  We'd like to do informal event focusing on the social aspects, where people with network automation interest can connect, grab a drink and share their motivation and experience. A venue for this type of event can be a pub or an office space. We'd like companies to sponsor and provide drinks and potentially foor or snacks. We're happy to announce the meeting using the Meetup group. It's then up to you to figure out what you want from it. Let's discuss.
+- **Venue sponsorship**
   We're always on the lookout for new venues. If you've got something that can host a 100 people comfortably including food and drink, then we'd love to hear from you.
-- Video recording sponsorship.
-  You need to organise ecording and editing the event. You will need to supply the video files within a week of the event.
+- **Video recording sponsorship**
+  You need to organise recording the event and editing the footage. You will need to supply the video files within a week of the event.
 
 ## Attendees
 We'll usually wine and dine you which is not a bad deal for an evening of your time where you can learn and see some cool things!
