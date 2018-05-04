@@ -39,7 +39,7 @@ With the above in mind, there are some *Good Ideas* to be mindful of:
 
 With the good, there is always the bad. Bad ideas include:
 - Sales pitches/informercials.
-  - Feel free to talk about where you work. However, talks along the lines of "how to operate our product" is probably not a great idea.
+  - Feel free to talk about where you work. However, talks along the lines of "sales" and "tutorials" is not is probably not a great idea.
 - How to operate your product. For example, I don't think anyone is interested in how to configure feature X on device Y. But an explanation of the internals should be fine.
 
 If you're not sure, you can always ask!
