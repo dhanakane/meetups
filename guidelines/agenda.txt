@@ -1,0 +1,41 @@
+# Standard Meetup Format
+5 - 5.30pm: Organisers arrive
+6.00pm: Attendees arrive
+6:25pm : Request attendees be seated so presentations can start
+6.30pm: Introduce sponsors
+6:35pm: Plug from sponsors
+6.40pm: First presentation (1st Yomi, 2nd Arista)
+7.05pm: Audience questions
+7:10pm: Second presentation
+7:35pm: Audience questions
+7:40pm: Break
+7:55pm: Request attendees be seated
+8:00pm: Announce panel discussion
+8:02pm: Ask panelists to introduce themselves.
+8:45pm: Close event. Don't forget to request volunteers and sponsors!
+
+# Organiser Prep
+## Before Meetup
+- Arrange venue
+- Arrange presentation
+- Arrange panelists
+
+## 24 hours ahead
+- Confirm with venue 24 hours before event that venue is ready.
+- Food and drink arrival time
+- Presenters are prepped
+- Tweet meetup
+- Plug meetup on LinkedIn
+- Let people know what e-mail address they can use to get in touch. lnam.orgs@gmail.com
+- Have questions ready for panel
+
+## On the day
+1 Check in with security when you arrive at the venue.
+2 Mic check (6.15pm cut off for A/V testing)
+3 Screen check
+4 Catering check
+5 Ensure presenters and panelists are present
+6 Organisers sync with each other
+7 Get hold of presenters and reconfirm their slots
+8 Tell people where we will be after event is over
+9 Request more volunteers
