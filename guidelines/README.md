@@ -12,7 +12,7 @@ Deadline: submit two weeks before the event
 So maybe you've done something cool, have a story to tell, maybe you've got an interesting problem, or you've solved an interesting problem and would like to talk about it. That's great! We'd love to hear from you!
 Everyone is encouraged to submit a proposal regardless of experience. Talks in the past have ranged from introductory, to advanced. If you're reading this and are interested in speaking at the London Network Automation Meetup then we want you to submit a proposal!
 
-Before you start, there are some factual things you should know.
+#### What does a proposal look like?
 - There are two types of presentation we take. A "My Project" talk which usually focuses on a problem you've solved including a demo, and a more traditional "Presentation" format.
 - Presentations are usually 30 minutes long including time for questions. If for some reason, yours is going to take longer then let us know and we'll see what we can do.
 - You can include a demo in a Presentation if you'd like.
@@ -29,7 +29,7 @@ Here are some questions people usually struggle with when they submit a proposal
   The most obvious thing to do is to practice your presentation. You honestly cannot do this enough. If there's anything else you're worried about then get in touch and we'll help.
 
 With the above in mind, there are some *Good Ideas* to be mindful of:
-- Submit your proposal early. The sooner you do this, the more time we will have to feedback and help you out. Things get pretty hectic in the final 10 days of organising the meetup and we all have day jobs, so it makes sense to get it in early.
+- Submit your proposal early. The sooner you do, the more time we have to feedback and help you out. Things get pretty hectic in the final 10 days of organising the meetup and we all have day jobs, so it makes sense to get it in early.
 - Answer some basic questions:
   - Who is the intended audience? Try and be specific. For example, Network Engineers is a broad subset, but Network Engineers who are trying to automate data collection is probably a good target to start with.
   - What will attendees get out of it? When they leave the room, what will they know that they didn't know before?
@@ -62,6 +62,9 @@ We have a few sponsorship options.
   We're always on the lookout for new venues. If you've got something that can host a 100 people comfortably including food and drink, then we'd love to hear from you.
 - **Video recording sponsorship**
   You need to organise recording the event and editing the footage. You will need to supply the video files within a week of the event.
+
+## Want to help organise?
+Great! This meetup is run entirely by volunteers and we're always looking for help. This could take several forms. Maybe you know someone who could present/demo something, or have access to a venue, fancy being the compere, or would like to be an extra pair of hands on the day (you'll be amazed at how many different directions you get pulled in on the day of the meetup!). Get in touch with us either in person, or via social media (we're all on LinkedIn, or tweet @_LNAM_ on Twitter).
 
 ## Attendees
 We'll usually wine and dine you which is not a bad deal for an evening of your time where you can learn and see some cool things!
